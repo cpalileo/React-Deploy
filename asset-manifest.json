@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.4ca86470.js",
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.e127e3b9.js",
     "static/js/787.d6cb1aba.chunk.js": "/static/js/787.d6cb1aba.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/cryptosourcewallet.jpg": "/static/media/cryptosourcewallet.3576e500df9736bb742c.jpg",
+    "static/media/design.jpg": "/static/media/design.62ac198df4b122054db0.jpg",
+    "static/media/portrait.jpg": "/static/media/portrait.a6e95ce16675827298bd.jpg",
+    "static/media/cryptosourcenews.jpg": "/static/media/cryptosourcenews.7ba8832305ea3381b7f8.jpg",
+    "static/media/code.jpg": "/static/media/code.69a2a666f347560a8798.jpg",
+    "static/media/steps.jpg": "/static/media/steps.abf32f1ae97a534def05.jpg",
+    "static/media/playlistant.jpg": "/static/media/playlistant.750a44c7ae19c4c4f505.jpg",
+    "static/media/github.png": "/static/media/github.b69c915905a778ff57ea.png",
+    "static/media/linkedin.png": "/static/media/linkedin.cb0146e2094c4581e979.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.4ca86470.js.map": "/static/js/main.4ca86470.js.map",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.e127e3b9.js.map": "/static/js/main.e127e3b9.js.map",
     "787.d6cb1aba.chunk.js.map": "/static/js/787.d6cb1aba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.4ca86470.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e127e3b9.js"
   ]
 }
